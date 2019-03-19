@@ -1,0 +1,1 @@
+Faire la somme de _n_ nombres, positifs ou negatifs
